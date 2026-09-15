@@ -5,7 +5,7 @@
 
   <rect x="24" y="80" width="832" height="76" rx="4" fill="none" stroke="#30363d"/>
   <text x="40" y="106" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="0.5" fill="#6e7681">CONTRIBUTIONS</text>
-  <text x="40" y="144" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="40" font-weight="700" fill="#e6edf3">3359</text>
+  <text x="40" y="144" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="40" font-weight="700" fill="#e6edf3">3362</text>
 
   <text x="24" y="185" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="0.5" fill="#6e7681">MOMENTUM</text>
   <g transform="translate(24, 201)"><rect x="0" y="64" width="15.020408163265307" height="0" rx="1" fill="#6e7681" fill-opacity="0.5">
@@ -153,35 +153,38 @@
       <animate attributeName="height" from="0" to="10.011173184357542" dur="0.35s" begin="0.705s" fill="freeze"/>
       <animate attributeName="y" from="64" to="53.988826815642454" dur="0.35s" begin="0.705s" fill="freeze"/>
     </rect><rect x="816.9795918367348" y="64" width="15.020408163265307" height="0" rx="1" fill="#6e7681" fill-opacity="0.5">
-      <animate attributeName="height" from="0" to="21.810055865921786" dur="0.35s" begin="0.72s" fill="freeze"/>
-      <animate attributeName="y" from="64" to="42.18994413407822" dur="0.35s" begin="0.72s" fill="freeze"/>
+      <animate attributeName="height" from="0" to="22.88268156424581" dur="0.35s" begin="0.72s" fill="freeze"/>
+      <animate attributeName="y" from="64" to="41.117318435754186" dur="0.35s" begin="0.72s" fill="freeze"/>
     </rect></g>
 
   <text x="24" y="294" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="0.5" fill="#6e7681">LANGUAGES</text>
-  <path d="M 164.66666666666669,360 L 164.66666666666669,316 A 44,44 0 1 1 152.26601615968005,317.7836066556655 Z" fill="#FDB912" fill-opacity="1" stroke="#0d1117" stroke-width="2" opacity="0">
+  <path d="M 164.66666666666669,360 L 164.66666666666669,316 A 44,44 0 1 1 121.0604048834895,354.1268463925229 Z" fill="#FDB912" fill-opacity="1" stroke="#0d1117" stroke-width="2" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0s" fill="freeze"/>
-    </path><path d="M 163.67010025388404,353.0713020425975 L 151.2694497468974,310.854908698263 A 44,44 0 0 1 163.67010025388404,309.0713020425975 Z" fill="#6e7681" fill-opacity="0.6" stroke="#0d1117" stroke-width="2" opacity="0">
+    </path><path d="M 164.66666666666669,360 L 121.0604048834895,354.1268463925229 A 44,44 0 0 1 156.09571506753278,316.84285935461776 Z" fill="#FDB912" fill-opacity="1" stroke="#0d1117" stroke-width="2" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.15s" fill="freeze"/>
+    </path><path d="M 163.98159775526673,353.0336034719065 L 155.41064615613283,309.87646282652423 A 44,44 0 0 1 163.98159775526673,309.0336034719065 Z" fill="#6e7681" fill-opacity="0.6" stroke="#0d1117" stroke-width="2" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.3s" fill="freeze"/>
     </path>
   
       <rect x="375.66666666666674" y="308" width="8" height="8" rx="1" fill="#FDB912"/>
       <text x="389.66666666666674" y="316" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#8b949e">TypeScript</text>
-      <text x="856" y="316" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#6e7681">95.5%</text>
-    <text x="375.66666666666674" y="332" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" letter-spacing="0.5" fill="#6e7681">OTHER · 4.5%</text>
-        <text x="381.66666666666674" y="345" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#8b949e">Shell</text>
-        <text x="856" y="345" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#6e7681">2.7%</text>
+      <text x="856" y="316" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#6e7681">77.1%</text>
+    
+      <rect x="375.66666666666674" y="321" width="8" height="8" rx="1" fill="#FDB912"/>
+      <text x="389.66666666666674" y="329" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#8b949e">JavaScript</text>
+      <text x="856" y="329" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#6e7681">19.7%</text>
+    <text x="375.66666666666674" y="345" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" letter-spacing="0.5" fill="#6e7681">OTHER · 3.1%</text>
+        <text x="381.66666666666674" y="358" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#8b949e">Shell</text>
+        <text x="856" y="358" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#6e7681">2.2%</text>
       
-        <text x="381.66666666666674" y="356" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#8b949e">Dockerfile</text>
-        <text x="856" y="356" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#6e7681">0.9%</text>
+        <text x="381.66666666666674" y="369" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#8b949e">Dockerfile</text>
+        <text x="856" y="369" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#6e7681">0.7%</text>
       
-        <text x="381.66666666666674" y="367" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#8b949e">JavaScript</text>
-        <text x="856" y="367" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#6e7681">0.7%</text>
-      
-        <text x="381.66666666666674" y="378" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#8b949e">CSS</text>
-        <text x="856" y="378" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#6e7681">0.2%</text>
+        <text x="381.66666666666674" y="380" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#8b949e">CSS</text>
+        <text x="856" y="380" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#6e7681">0.2%</text>
       
 
   <line x1="24" y1="418" x2="856" y2="418" stroke="#30363d"/>
   <text x="24" y="436" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#6e7681">STACK</text>
-  <text x="74" y="436" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#8b949e">TypeScript  ·  Shell  ·  Dockerfile</text>
+  <text x="74" y="436" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#8b949e">TypeScript  ·  JavaScript  ·  Shell</text>
 </svg>
