@@ -9,6 +9,8 @@
   <img src="panel-light.svg?v=1789494504" alt="GitHub activity panel for enes-demirci">
 </picture>
 
+<br>
+
 <p align="right">
   <a href="https://www.linkedin.com/in/enes-demirci-8b354a203/"><img src="linkedin.svg" width="20" height="20" alt="LinkedIn"></a>
 </p>
