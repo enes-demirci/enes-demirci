@@ -5,7 +5,7 @@
 
   <rect x="24" y="80" width="832" height="76" rx="4" fill="none" stroke="#30363d"/>
   <text x="40" y="106" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="0.5" fill="#6e7681">CONTRIBUTIONS</text>
-  <text x="40" y="144" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="40" font-weight="700" fill="#e6edf3">3346</text>
+  <text x="40" y="144" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="40" font-weight="700" fill="#e6edf3">3351</text>
 
   <text x="24" y="185" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="0.5" fill="#6e7681">MOMENTUM</text>
   <g transform="translate(24, 201)"><rect x="0" y="64" width="14.68" height="0" rx="1" fill="#6e7681" fill-opacity="0.5">
@@ -156,8 +156,8 @@
       <animate attributeName="height" from="0" to="37.899441340782126" dur="0.35s" begin="0.72s" fill="freeze"/>
       <animate attributeName="y" from="64" to="26.100558659217874" dur="0.35s" begin="0.72s" fill="freeze"/>
     </rect><rect x="817.3199999999999" y="64" width="14.68" height="0" rx="1" fill="#6e7681" fill-opacity="0.5">
-      <animate attributeName="height" from="0" to="2" dur="0.35s" begin="0.735s" fill="freeze"/>
-      <animate attributeName="y" from="64" to="62" dur="0.35s" begin="0.735s" fill="freeze"/>
+      <animate attributeName="height" from="0" to="2.8603351955307263" dur="0.35s" begin="0.735s" fill="freeze"/>
+      <animate attributeName="y" from="64" to="61.13966480446928" dur="0.35s" begin="0.735s" fill="freeze"/>
     </rect></g>
 
   <text x="24" y="294" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="0.5" fill="#6e7681">LANGUAGES</text>
