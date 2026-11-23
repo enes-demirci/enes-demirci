@@ -5,8 +5,8 @@
 ❤️ Fun fact: Galatasaray fan, which means I've built a high tolerance for things breaking at the worst possible moment
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="panel-dark.svg?v=1795353946">
-  <img src="panel-light.svg?v=1795353946" alt="GitHub activity panel for enes-demirci">
+  <source media="(prefers-color-scheme: dark)" srcset="panel-dark.svg?v=1795450042">
+  <img src="panel-light.svg?v=1795450042" alt="GitHub activity panel for enes-demirci">
 </picture>
 
 <br>
